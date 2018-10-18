@@ -12,7 +12,7 @@ export default {
   name: 'index',
   data () {
     return {
-      src: 'https://www.baidu.com/'
+      src: 'http://yangakw.cn'
     }
   },
   components: {
