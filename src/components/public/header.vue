@@ -43,9 +43,10 @@
 <style>
     .y_header {
         height: 38px;
-        min-width: 100%;
+        width: 100%;
         background: #000;
         color: #FFF;
+        overflow-y:scroll ;
     }
 
     .nav_item {
